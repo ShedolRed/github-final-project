@@ -1,0 +1,7 @@
+$ git branch -a -vv
+* main            5d6e7f8 [origin/main] Merge branch 'bug-fix-typo'
+  bug-fix-typo    a1b2c3d [origin/bug-fix-typo] Fix typo in README
+  bug-fix-revert  52f54b6 [origin/bug-fix-revert] Revert typo fix
+  remotes/origin/main            5d6e7f8 Merge branch 'bug-fix-typo'
+  remotes/origin/bug-fix-typo    a1b2c3d Fix typo in README
+  remotes/origin/bug-fix-revert  52f54b6 Revert typo fix
