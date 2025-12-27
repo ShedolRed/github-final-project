@@ -1,1 +1,18 @@
-Forbidden. Calls to this URL via the terminal are not allowed. To save the url contents to the container, open the url in the computer tool, right click anywhere, and click "Save As...".
+{
+  "number": 3847,
+  "state": "open",
+  "head": {
+    "repo": {
+      "full_name": "ShedolRed/mcino-Introduction-to-Git-and-GitHub",
+      "fork": true,
+      "parent": {
+        "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  },
+  "base": {
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
